@@ -1,3 +1,9 @@
+@media(max-height: 750px) {
+  .container section {
+      margin-top: 3rem;
+  }
+}
+
 .container {
   height: 100vh;
   max-width: 992px;
