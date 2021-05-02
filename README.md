@@ -29,7 +29,7 @@ Desenvolvido na [Next Level Week 4](https://nextlevelweek.com/), evento promovid
 > **cd 'nome_do_diretório'**
 
 > Instalar as dependências do projeto:
-> **npm i ou yarn add**
+> **npm i ou yarn install**
 
 > Executar a aplicação:
 > **npm run dev ou yarn dev**
